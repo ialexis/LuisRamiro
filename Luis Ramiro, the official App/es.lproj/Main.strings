@@ -1,0 +1,72 @@
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "12A-Iu-Zj2"; */
+"12A-Iu-Zj2.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "2rd-Fn-0f2"; */
+"2rd-Fn-0f2.text" = "Subtitle";
+
+/* Class = "IBUINavigationItem"; title = "Luis Ramiro"; ObjectID = "30W-Uo-3t4"; */
+"30W-Uo-3t4.title" = "Luis Ramiro";
+
+/* Class = "IBUIViewController"; title = "Sobre mi"; ObjectID = "5fC-Ga-KoY"; */
+"5fC-Ga-KoY.title" = "Sobre mi";
+
+/* Class = "IBUITabBarItem"; title = "Quien soy"; ObjectID = "6a0-Y1-Oq1"; */
+"6a0-Y1-Oq1.title" = "Quien soy";
+
+/* Class = "IBUIViewController"; title = "Mis Conciertos"; ObjectID = "CZ4-MO-1fc"; */
+"CZ4-MO-1fc.title" = "Mis Conciertos";
+
+/* Class = "IBUISegmentedControl"; EzN-RW-aUW.segmentTitles[0] = "Pendientes"; ObjectID = "EzN-RW-aUW"; */
+"EzN-RW-aUW.segmentTitles[0]" = "Pendientes";
+
+/* Class = "IBUISegmentedControl"; EzN-RW-aUW.segmentTitles[1] = "Pasados"; ObjectID = "EzN-RW-aUW"; */
+"EzN-RW-aUW.segmentTitles[1]" = "Pasados";
+
+/* Class = "IBUIViewController"; title = "Second"; ObjectID = "QUy-BD-bpt"; */
+"QUy-BD-bpt.title" = "Second";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "Uwg-Hw-6b4"; */
+"Uwg-Hw-6b4.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "€"; ObjectID = "XgA-YG-Ypw"; */
+"XgA-YG-Ypw.text" = "€";
+
+/* Class = "IBUITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Yc4-ku-dmd"; */
+"Yc4-ku-dmd.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "IBUITabBarItem"; title = "Mis Redes Sociales"; ObjectID = "Z7h-1E-pvt"; */
+"Z7h-1E-pvt.title" = "Mis Redes Sociales";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Zmm-pW-o2e"; */
+"Zmm-pW-o2e.text" = "Title";
+
+/* Class = "IBUITabBarItem"; title = "Mis Fotos"; ObjectID = "ayY-q7-WRg"; */
+"ayY-q7-WRg.title" = "Mis Fotos";
+
+/* Class = "IBUINavigationItem"; title = "Conciertos"; ObjectID = "cns-j3-qCa"; */
+"cns-j3-qCa.title" = "Conciertos";
+
+/* Class = "IBUINavigationItem"; title = "Mis Fotos"; ObjectID = "fWg-L2-1b3"; */
+"fWg-L2-1b3.title" = "Mis Fotos";
+
+/* Class = "IBUITabBarItem"; title = "Mis Poemas"; ObjectID = "hvS-5O-jx7"; */
+"hvS-5O-jx7.title" = "Mis Poemas";
+
+/* Class = "IBUISegmentedControl"; kIO-Ov-291.segmentTitles[0] = "Twitter"; ObjectID = "kIO-Ov-291"; */
+"kIO-Ov-291.segmentTitles[0]" = "Twitter";
+
+/* Class = "IBUISegmentedControl"; kIO-Ov-291.segmentTitles[1] = "Facebook"; ObjectID = "kIO-Ov-291"; */
+"kIO-Ov-291.segmentTitles[1]" = "Facebook";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "mOQ-Q4-Ddm"; */
+"mOQ-Q4-Ddm.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Poemas"; ObjectID = "nVq-uO-02P"; */
+"nVq-uO-02P.title" = "Poemas";
+
+/* Class = "IBUITabBarItem"; title = "Mis Conciertos"; ObjectID = "u1e-5L-l1D"; */
+"u1e-5L-l1D.title" = "Mis Conciertos";
+
+/* Class = "IBUIViewController"; title = "Mis Conciertos"; ObjectID = "zMU-KK-M2U"; */
+"zMU-KK-M2U.title" = "Mis Conciertos";
